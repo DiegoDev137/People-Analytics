@@ -1,4 +1,18 @@
-# React + TypeScript + Vite
+# Mi Todo App - React + TypeScript + Supabase
+
+Una aplicación de lista de tareas moderna conectada a Supabase.
+
+## 🚀 Características
+- Conexión en tiempo real con Supabase
+- TypeScript para type safety
+- Tailwind CSS para estilos
+- Toggle de estado de tareas
+
+## 🛠️ Tecnologías
+- React 18 + TypeScript
+- Supabase (PostgreSQL)
+- Tailwind CSS
+- Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
